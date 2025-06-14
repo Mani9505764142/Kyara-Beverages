@@ -42,3 +42,9 @@ kyara-beverages/
 ├── images/ # Image assets
 └── README.md # You're here!
 
+
+## 🚀 Live Demo
+
+You can view the live demo of the Kyara Beverages website at:
+[https://kyara-beverages-eta.vercel.app/](https://kyara-beverages-eta.vercel.app/) 
+
